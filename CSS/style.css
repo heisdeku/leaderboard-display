@@ -1,1 +1,36 @@
+*{
+    box-sizing: border-box;
 
+}
+
+.navbar {
+    background-color: #FB5457;
+    color: white;
+}
+
+.section-1  {
+    background-image: url('../imagess/Group 21 (1) 1.png');
+    padding-top: 5%;
+
+}
+
+.section-2 {
+    margin: 3%;
+    
+}
+
+span {
+    padding: 2%;
+}
+
+.score {
+ display: flex;
+  justify-content: flex-start;
+  background-color:#F9F9F9;
+  margin-top: 2%;
+}
+
+.pad {
+    padding-right: 2%;
+    page-break-inside: 2%;
+}
