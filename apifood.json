@@ -1,0 +1,67 @@
+[{
+        "id": 1,
+        "name": "rice",
+        "ingredients": [
+            "rice plant",
+            "rice plant",
+            "rice plant"
+        ],
+        "time": 25,
+        "difficulty": true
+    },
+    {
+        "id": 4,
+        "name": "rice",
+        "ingredients": [
+            "rice plant",
+            "rice plant",
+            "rice plant"
+        ],
+        "time": 25,
+        "difficulty": true
+    },
+    {
+        "id": 2,
+        "name": "rice",
+        "ingredients": [
+            "rice plant",
+            "rice plant",
+            "rice plant"
+        ],
+        "time": 25,
+        "difficulty": true
+    },
+    {
+        "id": 345,
+        "name": "rice",
+        "ingredients": [
+            "rice plant",
+            "rice plant",
+            "rice plant"
+        ],
+        "time": 25,
+        "difficulty": true
+    },
+    {
+        "id": 56,
+        "name": "rice",
+        "ingredients": [
+            "rice plant",
+            "rice plant",
+            "rice plant"
+        ],
+        "time": 25,
+        "difficulty": true
+    },
+    {
+        "id": 24,
+        "name": "rice",
+        "ingredients": [
+            "rice plant",
+            "rice plant",
+            "rice plant"
+        ],
+        "time": 25,
+        "difficulty": true
+    }
+]
